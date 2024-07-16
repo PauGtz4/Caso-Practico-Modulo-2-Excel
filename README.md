@@ -21,7 +21,7 @@ Los datos han sido agrupados en 6 rangos de edad y se obtuvieron los siguientes 
   
   		c) Específicamente por edad cumplida y género femenino, las clientas que más compraron tienen 34, 26 y 43 años.					
   
-  d) En el caso del género masculino, los clientes con mayor compra tienen 51, 22 y 31 años.							
+  		d) En el caso del género masculino, los clientes con mayor compra tienen 51, 22 y 31 años.							
 
 
 
